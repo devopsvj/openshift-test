@@ -6,6 +6,8 @@
 
 <?php
 echo "Hello MyDevOps OpenShift World!";
+echo "Hello OpenShift World!";
+
 ?> 
 
 </body>
